@@ -1,0 +1,12 @@
+Cadastro de Produtos
+
+Ator: João
+Caso de Uso: João entra no sistema, cadastra um novo produto, informando o nome, preço e quantidade em estoque.
+Registro de Vendas
+
+Ator: Maria
+Caso de Uso: Maria registra uma venda, e o sistema atualiza automaticamente o estoque.
+Geração de Relatórios
+
+Ator: João
+Caso de Uso: João acessa a área de relatórios e visualiza o desempenho de vendas e o estado do estoque.
