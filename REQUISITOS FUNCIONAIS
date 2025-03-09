@@ -1,0 +1,4 @@
+O sistema deve permitir o cadastro de produtos com nome, preço e quantidade em estoque.
+O sistema deve atualizar automaticamente o estoque após cada venda.
+O sistema deve gerar relatórios de vendas e de estoque.
+O sistema deve ser acessível via web, em qualquer dispositivo com internet.
