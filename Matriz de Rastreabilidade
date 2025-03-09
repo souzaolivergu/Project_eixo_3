@@ -1,0 +1,6 @@
+Matriz de Rastreabilidade dos Requisitos:
+
+Requisito	Funcionalidade	Critério de Aceitação
+RF1	Cadastro de produtos	O sistema deve permitir o cadastro de produtos e exibir informações corretamente.
+RF2	Atualização do estoque	O estoque deve ser atualizado automaticamente após cada venda.
+RF3	Relatórios	O sistema deve gerar relatórios precisos e fáceis de ler.
